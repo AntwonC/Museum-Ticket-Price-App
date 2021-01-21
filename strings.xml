@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Museum Ticket</string>
+    <string name="titleSecond">Museum Ticket Price Calculator</string>
+    <string name="title">NYC Museum Tickets</string>
+    <string name="momaButton">The Museum of Modern Art</string>
+    <string name="illusionsButton">Museum of Illusions</string>
+    <string name="metButton">The Metropolitan Museum of Art</string>
+    <string name="newButton">New Museum</string>
+    <string name="toastMessage">Maximum of 5 tickets for each!</string>
+    <string name="momaAdult">Adult: $25.00</string>
+    <string name="momaSenior">Senior: $18.00</string>
+    <string name="momaStudent">Student: $14.00</string>
+    <string name="illAdult">Adult: $22.00</string>
+    <string name="illSenior">Senior: $20.00</string>
+    <string name="illStudent">Student: $18.00</string>
+    <string name="metSenior">Senior: $17.00</string>
+    <string name="metStudent">Student: $12.00</string>
+    <string name="newAdult">Adult: $18.00</string>
+    <string name="newSenior">Senior: $15.00</string>
+    <string-array name="ticketChoices">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="picture">value</string>
+    <string name="adult">Adult</string>
+    <string name="senior">Senior</string>
+    <string name="student">Student</string>
+    <string name="calculateButton">Calculate Ticket Price</string>
+    <string name="textPrice">Ticket Price</string>
+    <string name="textTax">Sales Tax</string>
+    <string name="textTotal">Ticket Total Price</string>
+    <string name="totalPrice">Total Price: $</string>
+    <string name="salesTax">Sales Tax: $</string>
+    <string name="ticketPrice">Ticket Price: $</string>
+    <string name="buttonNum">buttonNumber</string>
+    <string name="first">1</string>
+    <string name="second">2</string>
+    <string name="third">3</string>
+    <string name="fourth">4</string>
+    <string name="momaLink">https://www.moma.org/</string>
+    <string name="illusionsLink">https://www.museumofillusions.com/</string>
+    <string name="metLink">https://www.metmuseum.org/</string>
+    <string name="newLink">https://www.newmuseum.org/</string>
+    <string name="stringFormatter">%s%s</string>
+    <string name="twoDecimal">%.2f</string>
+
+    Adult: $25.00
+</resources>
